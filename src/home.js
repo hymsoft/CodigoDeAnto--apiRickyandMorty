@@ -32,4 +32,5 @@ window.addEventListener('hashchange', () => {
     console.log("guardado");
     window.location.replace('./character.html');
     console.log("recargado"); 
+    
 })
